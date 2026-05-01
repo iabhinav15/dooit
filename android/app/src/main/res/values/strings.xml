@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">dooit</string>
+    <string name="title_activity_main">dooit</string>
+    <string name="package_name">com.dooit.app</string>
+    <string name="custom_url_scheme">com.dooit.app</string>
+</resources>
